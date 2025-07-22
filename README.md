@@ -24,11 +24,11 @@ This project models and validates EV delivery routes by simulating detailed vehi
 
 ## 📁 Repository Structure
 
-📦 ev-delivery-route-simulation
-├── src/ # Simulation engine & battery model code
-├── notebooks/ # Jupyter notebooks for analysis and visualization
-├── data/ # Sample telemetry and customer input data
-└── README.md # You are here
+📦 ev-delivery-route-simulation.
+├── src/ # Simulation engine & battery model code.
+├── notebooks/ # Jupyter notebooks for analysis and visualization.
+├── data/ # Sample telemetry and customer input data.
+└── README.md # You are here.
 
 
 ---
